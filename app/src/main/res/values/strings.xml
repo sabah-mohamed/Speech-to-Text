@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="mic_text">Click to add an event</string>
+    <string name="upcoming_event">Upcoming Events</string>
+    <string name="event">Event</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+</resources>
